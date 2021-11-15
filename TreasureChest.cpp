@@ -1,4 +1,3 @@
-//Christian Rodriguez
 //Efrain Ortiz
 #include <iostream>
 #include <iomanip>
